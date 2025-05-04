@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+/// <reference = cypress>
 
 describe("Testes da criação, registro, login e exclusão", () => {
     let infos = []
